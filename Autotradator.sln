@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Windows Desktop
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autotradator", "Autotradator\Autotradator.csproj", "{685742E0-160E-4E72-A6BC-75683595479C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakaTicksReader", "TakaTicksReader\TakaTicksReader.csproj", "{0F960D12-8156-4F30-AC6B-D065E282ED1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{685742E0-160E-4E72-A6BC-75683595479C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{685742E0-160E-4E72-A6BC-75683595479C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{685742E0-160E-4E72-A6BC-75683595479C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{685742E0-160E-4E72-A6BC-75683595479C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F960D12-8156-4F30-AC6B-D065E282ED1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F960D12-8156-4F30-AC6B-D065E282ED1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F960D12-8156-4F30-AC6B-D065E282ED1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F960D12-8156-4F30-AC6B-D065E282ED1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
